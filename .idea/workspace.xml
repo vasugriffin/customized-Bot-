@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8c4c620-209a-458d-b4e0-6d7920bcbd46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PythonProject4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf_qa_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/Civics/Civics 7th Social index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/Civics/Civics Soc chp(1)On Equality.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/Civics/Civics Soc chp(2)Government Role in Health.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/Civics/Civics Soc chp(3)How the State Government Works.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/Civics/Civics Soc chp(4)Growing Up As Boys And Girls.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/Civics/Civics Soc chp(5)Women Change The World.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/History/History (1)Tracing Changes Through A Thousand Years.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/History/History (2)New Kings And Kingdoms.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/History/History (3)The Delhi Sultans.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/History/History (4)The Mughal Empire.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/History/History (5)Rulers and Buildings.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/7th Social subject remove watermark/History/History 7th Social index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/Civics/Civics 7th Social index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/Civics/Civics Soc chp(1)On Equality.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/Civics/Civics Soc chp(2)Government Role in Health.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/Civics/Civics Soc chp(3)How the State Government Works.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/Civics/Civics Soc chp(4)Growing Up As Boys And Girls.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/Civics/Civics Soc chp(5)Women Change The World.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/History/History (1)Tracing Changes Through A Thousand Years.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/History/History (2)New Kings And Kingdoms.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/History/History (3)The Delhi Sultans.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/History/History (5)Rulers and Buildings.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th Social subject remove watermark/History/History 7th Social index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th english subject remove watermark/7th english  unit -1 LEARNING TOGETHER.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th english subject remove watermark/7th english index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th english subject remove watermark/7th english unit -2 WIT AND HUMOUR.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th english subject remove watermark/7th english unit -3 DREAMS &amp; DISCOVERS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th english subject remove watermark/7th english unit -5 BRAVEHEARTS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th english subject remove watermark/chapter 4- travel and adventure.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th maths subject remove watermark/maths 7th index.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th maths subject remove watermark/maths ch-1 Large Numbers Around Us (3).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th maths subject remove watermark/maths ch-2 Arithmetic Expressions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th maths subject remove watermark/maths ch-3 A Peek Beyond the Point.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th maths subject remove watermark/maths ch-4 Expressions using Letter-Numbers.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/7th maths subject remove watermark/maths ch-5 Parallel and Intersecting Lines (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/Science chpt-1to5/7-Science-chpt-1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/Science chpt-1to5/7-Science-chpt-2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/Science chpt-1to5/7-Science-chpt-3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/Science chpt-1to5/7-Science-chpt-4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/Science chpt-1to5/7-Science-chpt-5.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/computer/Class-7-15-20.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/computer/Class-7-21-24.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/computer/Class-7-25-29.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/computer/Class-7-30-33.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdfs/pdfs1/computer/Class-7-9-14.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="32Aqd3hwcHBxvKrfWA11g0kYTja" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdf_qa_bot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhipuai.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vasud/Desktop/customized_bot&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vasud\Desktop\customized_bot" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8c4c620-209a-458d-b4e0-6d7920bcbd46" name="Changes" comment="" />
+      <created>1756873808668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756873808668</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
